@@ -6,4 +6,6 @@ Built using the CQRS and Mediator pattern
 - ASP.NET Core w/ C#
 - ViteJS
 - SemanticUI
+- Axios for hooking up front-end requests to API
+- MobX for state management
 - SQLite
